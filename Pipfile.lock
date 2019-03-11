@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6efe866e57d92c9aea5fc7adb22953dcec05898f1981c08d443a604b6275a186"
+            "sha256": "5e467ef03f39f8c03652a5d892e7fd2c11ba58cd01e4e6036cc8f39b4849d69d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -180,6 +180,7 @@
                 "sha256:dc235bf29a406dfda5790d01b998a1c01d7d37f449128c0b1b7d1c89a84fae8b",
                 "sha256:fb3c83554f39f48f3fa3123b9c24aecf681b1c289f9334f8215c1d3c8e2f6e5b"
             ],
+            "index": "pypi",
             "version": "==1.16.2"
         },
         "pbr": {
@@ -260,6 +261,13 @@
                 "sha256:7cfdaa3e83e3532f31713713feb98be7ea9f3065722be4267e49b6c301271419"
             ],
             "version": "==1.13.0"
+        },
+        "tensorflow-hub": {
+            "hashes": [
+                "sha256:d7dccd31f550bccf32e4e401c67794501f03b89cd9aa4b6c5394ca4b229b5de5"
+            ],
+            "index": "pypi",
+            "version": "==0.3.0"
         },
         "termcolor": {
             "hashes": [
